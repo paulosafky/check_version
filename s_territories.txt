@@ -1,1 +1,1 @@
-
+{"version":"1.3", "notes":" New Config for ESX users only, that doesnt use black_money as item. New Discord: https://discord.gg/tDCCUmRJhZ, many updates, and new scripts coming soon!"}
