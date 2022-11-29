@@ -1,1 +1,1 @@
-{"version":"1.1", "notes":" New Discord: https://discord.gg/tDCCUmRJhZ, many updates, and new scripts coming soon!"}
+{"version":"1.2", "notes":" New Discord Log for Increase Automatic Values and check on prop for target!"}
