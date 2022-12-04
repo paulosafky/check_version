@@ -1,1 +1,1 @@
-{"version":"1.4", "notes":" New option to add your mini-game to the start of the heist!"}
+{"version":"1.5", "notes":" Fixed Bug Positions on Drills and Big Vault! Fixed DrawTexts"}
