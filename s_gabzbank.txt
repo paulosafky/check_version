@@ -1,1 +1,1 @@
-{"version":"1.5", "notes":" Fixed Bug Positions on Drills and Big Vault! Fixed DrawTexts"}
+{"version":"2.0", "notes":" New Configs, New Translations, GoldBars Added, Configurable Command to reset Heist for police, fixed main stack of money, added 2 doors thermite, selling system"}
