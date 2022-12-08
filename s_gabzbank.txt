@@ -1,1 +1,1 @@
-{"version":"2.0", "notes":" New Configs, New Translations, GoldBars Added, Configurable Command to reset Heist for police, fixed main stack of money, added 2 doors thermite, selling system"}
+{"version":"2.0.1", "notes":" Fixed Gold Bars and Police Alert on ESX Framework"}
