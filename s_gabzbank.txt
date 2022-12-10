@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":" Fixed Gold Bars and Police Alert on ESX Framework"}
+{"version":"2.0.2", "notes":" Fixed Command of Police to Reset Heist"}
