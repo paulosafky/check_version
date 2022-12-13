@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":" New!"}
+{"version":"1.1", "notes":"Added Help on Commands, Added READ.ME file, Added Documentation Guide"}
