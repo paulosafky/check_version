@@ -1,1 +1,0 @@
-{"version":"1.0.1", "notes":" Added Burning Weapon System, Added option to configure trunks of specific vehicle models. Updated Documentation Guide"}
