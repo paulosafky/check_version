@@ -1,1 +1,1 @@
-{"version":"1.0", "notes":" OUT NOW !!!"}
+{"version":"1.0.1", "notes":" Option to add or config individually props of vending machines, change currency simbol, option to disable garbage system, antidupe option stash "}
