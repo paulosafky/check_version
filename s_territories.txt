@@ -1,6 +1,1 @@
-{"version":"1.3", "notes":" Reworked all the code 
-- Added compatibility with gangs in qb-core 
-- Added colorful blips configurable with the color of the gang that owns it 
-- Added toggle option required police 
-- Added configurable minimum members of job/gang to start attempt to control 
-- Added toggle option to disable chat messages events!"}
+{"version":"1.3", "notes":" Reworked all the code, compatibility gangs qb, colorful blips, required police, minimum members, chat"}
