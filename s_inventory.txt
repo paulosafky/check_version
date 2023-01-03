@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":" Option to add or config individually props of vending machines, change currency simbol, option to disable garbage system, antidupe option stash "}
+{"version":"1.0.2", "notes":" Compatibility with weapon draw and recoil of qb-core, fixed craft costs description "}
