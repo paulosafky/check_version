@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":" Compatibility with weapon draw and recoil of qb-core, fixed craft costs description "}
+{"version":"1.0.3", "notes":" Toggle option to turn money account into item cash! "}
