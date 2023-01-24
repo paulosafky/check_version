@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":" Reworked all the code, compatibility gangs qb, colorful blips, required police, minimum members, chat"}
+{"version":"1.0.4", "notes":" Fixed syncing colors with all players when updates a owner of new territory"}
