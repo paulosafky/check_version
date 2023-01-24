@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":" Toggle option to turn money account into item cash! "}
+{"version":"1.0.4", "notes":" Fixed backpacks! Fixed color when weapons get broken! "}
