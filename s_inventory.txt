@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":" Fixed backpacks! Fixed color when weapons get broken! "}
+{"version":"1.0.5", "notes":" Added Job Shops! "}
