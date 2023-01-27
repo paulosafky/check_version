@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":" Added Job Shops! "}
+{"version":"1.0.6", "notes":" Added option to vip coins show in inventory (tebex), option to show char first and lastname, fixed buttons in ultrawide resolutions! "}
