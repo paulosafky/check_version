@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":" Added option to configure minimum rank when job is required !!!"}
+{"version":"2.0.2", "notes":" Added optional config to alert police when selling drugs by percentage !!!"}
