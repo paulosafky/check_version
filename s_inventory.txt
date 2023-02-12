@@ -1,1 +1,1 @@
-{"version":"1.0.7", "notes":" Fixed crafts! "}
+{"version":"1.0.8", "notes":" Removed optional function cash as item. Add progressbar to when fill weapons with ammo "}
