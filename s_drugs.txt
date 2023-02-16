@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":" Added optional config to alert police when selling drugs by percentage !!!"}
+{"version":"2.0.3", "notes":" Removed dependencies in ESX , and added OX_TARGET COMPATIBILITY !!!"}
