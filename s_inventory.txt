@@ -1,1 +1,1 @@
-{"version":"1.0.8", "notes":" Removed optional function cash as item. Add progressbar to when fill weapons with ammo "}
+{"version":"1.0.9", "notes":" Update Anti Dupe System, Darker Background by default, New LOGS for you know people whos trying to duplicate "}
