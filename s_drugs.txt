@@ -1,1 +1,1 @@
-{"version":"2.0.3", "notes":" Removed dependencies in ESX , and added OX_TARGET COMPATIBILITY !!!"}
+{"version":"2.0.4", "notes":" COMPATIBILITY WITH OX_LIB !!!"}
