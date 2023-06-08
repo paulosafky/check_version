@@ -1,1 +1,1 @@
-{"version":"2.0.2", "notes":" Fixed Command of Police to Reset Heist"}
+{"version":"2.0.3", "notes":" Added new file config_server.lua, opened some code"}
