@@ -1,1 +1,1 @@
-{"version":"1.2", "notes":"Removed all dependencies!!!"}
+{"version":"2.0", "notes":"Full Reworked Code | ox_lib"}
