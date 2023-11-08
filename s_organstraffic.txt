@@ -1,1 +1,1 @@
-{"version":"1.2.2", "notes":" Removed dependencies s_menu, progressbar, added new dependencies ox_lib and ox_target!"}
+{"version":"1.2.3", "notes":" Compatible with qb-target, auto detect framework"}
