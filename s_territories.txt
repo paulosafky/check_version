@@ -1,1 +1,1 @@
-{"version":"1.0.5", "notes":" Compatible ox_target, REMOVED dependencies in ESX for s_menu and s_keyboard"}
+{"version":"2.0", "notes":" Updating"}
