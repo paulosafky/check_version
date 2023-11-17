@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":" Fixed blur screen initial for some players "}
+{"version":"1.0.3", "notes":" Changed drawtext to work with modified qb-core resources "}
