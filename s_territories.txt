@@ -1,1 +1,1 @@
-{"version":"2.1", "notes":" Added Function Max Territories"}
+{"version":"2.2", "notes":" Added Config to allow melee weapons to conquer | Bug fixed in ESX police count"}
