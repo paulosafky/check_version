@@ -1,1 +1,1 @@
-{"version":"2.0.4", "notes":" COMPATIBILITY WITH OX_LIB !!!"}
+{"version":"3.0", "notes":" Remade from scratch"}
