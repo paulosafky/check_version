@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":" Check Ped Type to not get organs from Animals"}
+{"version":"1.4", "notes":" Config.Weapon, choose if is necessary a weapon to search a body and what type of weapon, or set it to false"}
