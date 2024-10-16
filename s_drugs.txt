@@ -1,1 +1,1 @@
-{"version":"3.0", "notes":" Remade from scratch"}
+{"version":"4.0", "notes":"Opened some files, made compatible with any framework, reworked the code"}
