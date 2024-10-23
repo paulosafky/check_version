@@ -1,1 +1,1 @@
-{"version":"1.4", "notes":" Config.Weapon, choose if is necessary a weapon to search a body and what type of weapon, or set it to false"}
+{"version":"2.0", "notes":" Reworked all the code, new compatibility with all frameworks, opened some code, toggle police alert, can require gang now too instead of only job"}
