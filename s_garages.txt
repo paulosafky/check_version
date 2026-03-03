@@ -1,1 +1,1 @@
-{"version":"1.3", "notes":"Moved fuel, engine, body to separate column to otimize query"}
+{"version":"1.3", "notes":"Perfomance and cleanup, race condition hotwire fixed"}
