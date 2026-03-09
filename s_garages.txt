@@ -1,1 +1,1 @@
-{"version":"1.5", "notes":"Perfomance and cleanup, race condition hotwire fixed"}
+{"version":"1.6", "notes":"Vehicles Not Registered Show Up | Toggle Config Save Mods"}
