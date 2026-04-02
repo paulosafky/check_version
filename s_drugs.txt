@@ -1,1 +1,1 @@
-{"version":"4.0", "notes":"Opened some files, made compatible with any framework, reworked the code"}
+{"version":"5.0.0", "notes":"Opened some files, made compatible with any framework, reworked the code"}
