@@ -1,1 +1,1 @@
-{"version":"1.6", "notes":"Vehicles Not Registered Show Up | Toggle Config Save Mods"}
+{"version":"2.0.0", "notes":"Multi-framework support | New UI | Private garages | Vehicle keys | Hotwire system"}

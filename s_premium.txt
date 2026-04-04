@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":" Integration with tebex !!!"}
+{"version":"2.1.0", "notes":"Multi-framework support | Tebex integration"}

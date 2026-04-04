@@ -1,1 +1,1 @@
-{"version":"2.2", "notes":" Added Config to allow melee weapons to conquer | Bug fixed in ESX police count"}
+{"version":"2.3", "notes":"Multi-framework support | QBX compatibility fix"}
