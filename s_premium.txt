@@ -1,1 +1,1 @@
-{"version":"2.1.0", "notes":"Multi-framework support | Tebex integration"}
+{"version":"2.2.0", "notes":"Helicopter penthouse entry | Passenger routing bucket | Secure bell flow | lib.addCommand + framework admin perms | Schema migration"}
