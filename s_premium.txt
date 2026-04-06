@@ -1,1 +1,1 @@
-{"version":"2.2.0", "notes":"Helicopter penthouse entry | Passenger routing bucket | Secure bell flow | lib.addCommand + framework admin perms | Schema migration"}
+{"version":"2.3.0", "notes":"Framework currency option | Monthly subscription | Daily rewards | Premium shops (coin items)"}
