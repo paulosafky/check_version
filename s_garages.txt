@@ -1,1 +1,1 @@
-{"version":"2.0.1", "notes":"Get Framework Shared Vehicles Names with FallBack for native"}
+{"version":"2.0.2", "notes":"Fixed impound non-owned vehicles & jobRegular save"}
