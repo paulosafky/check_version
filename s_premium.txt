@@ -1,1 +1,1 @@
-{"version":"2.3.0", "notes":"Framework currency option | Monthly subscription | Daily rewards | Premium shops (coin items)"}
+{"version":"3.0.0", "notes":"Massive Rework!"}
