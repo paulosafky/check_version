@@ -1,1 +1,1 @@
-{"version":"3.0.0", "notes":"Massive Rework!"}
+{"version":"3.0.1", "notes":"Fix gift code missing in logs, fix tebex remove deleting wrong subscription"}
