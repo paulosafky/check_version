@@ -1,1 +1,1 @@
-{"version":"2.0.3", "notes":"GiveVehicleKeys/RemoveVehicleKeys now receive vehicle entity as 2nd arg"}
+{"version":"2.0.4", "notes":"Fix false positive exploit logs, remove brand from vehicle names, lazy load menus"}
