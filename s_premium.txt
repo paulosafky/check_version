@@ -1,1 +1,1 @@
-{"version":"3.0.2", "notes":"Fix guests could open penthouse stash and closet"}
+{"version":"3.0.3", "notes":"Fix vehicle stand images falling back to a broken inventory URL when no image is set; fix race condition that required restarting the resource for the dashboard to load on slow clients"}
