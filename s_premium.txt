@@ -1,1 +1,1 @@
-{"version":"3.0.3", "notes":"Fix vehicle stand images falling back to a broken inventory URL when no image is set; fix race condition that required restarting the resource for the dashboard to load on slow clients"}
+{"version":"3.0.4", "notes":"Vehicle stands now auto-resolve thumbnails: drop PNGs in web/assets/cars/ named after the spawn (e.g. nero2.png) and they appear; missing thumbnails fall back to web/assets/cars/default.png; new Config.Branding.VehicleImageUrl to customize the path; the showImages flag is no longer needed"}
