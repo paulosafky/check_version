@@ -1,1 +1,1 @@
-{"version":"2.0.5", "notes":"Fix nickname and favorite changes being silently ignored on jobowned vehicles"}
+{"version":"2.0.6", "notes":"Split state/mods UPDATE in storeVehicle to reduce DB lock contention; mods are now persisted fire-and-forget after the atomic state change"}
