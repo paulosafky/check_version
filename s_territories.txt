@@ -1,1 +1,1 @@
-{"version":"2.3", "notes":"Multi-framework support | QBX compatibility fix"}
+﻿{"version":"1.0.0", "notes":"Full rewrite — capture by presence (no combat), workshops/markets/banks, daily Black Zone window, multi-framework (ESX/QB/QBX) + multi-inventory (ox/qs/ps/lj/qb-inventory) auto-detection"}
