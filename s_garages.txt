@@ -1,1 +1,1 @@
-{"version":"2.0.7", "notes":"Fixed 'vehicle not available' when spawning: ESX TINYINT(1) `stored` column was returned as Lua boolean by oxmysql, breaking the `state ~= 1` check. Now normalizes state to number everywhere (server + NUI status badges). Also: plate matching tolerant to any format (1-8 chars, with/without spaces, case-insensitive), removed duplicate column in ESX SELECT, admin /vehicleplate accepts 1-8 chars, new Config.Debug toggle for troubleshooting."}
+{"version":"2.2.0", "notes":"Spawn vehicle setter + keys."}
