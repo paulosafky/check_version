@@ -1,1 +1,1 @@
-{"version":"2.2.1", "notes":"Spawn vehicle setter + keys."}
+{"version":"2.2.2", "notes":"Spawn vehicle setter + keys."}
