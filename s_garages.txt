@@ -1,1 +1,1 @@
-{"version":"2.2.2", "notes":"Spawn vehicle setter + keys."}
+{"version":"3.0.1", "notes":"Fix deadlock vs s_mechanic: remover UPPER(REPLACE(plate)) das queries SQL (plate normalizado em Lua via NormalizePlate)."}
