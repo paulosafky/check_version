@@ -1,1 +1,1 @@
-{"version":"2.1.0", "notes":"Own Audio System"}
+{"version":"2.2.2", "notes":"Xsound Distance Fixed"}
