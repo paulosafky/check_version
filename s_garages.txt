@@ -1,1 +1,1 @@
-{"version":"3.1.0", "notes":"Garagens de casa: lista respeita Config.UniqueGarages (mostra a frota toda quando false); acesso delegado ao recurso de housing (removido AuthorizeHouseGarage); UI ganha as acoes de retirar/renomear no estilo 'house'."}
+{"version":"3.1.0", "notes":"Add exports for housing scripts"}
