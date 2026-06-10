@@ -1,1 +1,1 @@
-{"version":"3.0.6", "notes":"Fix: when a buyer purchased multiple packages (or quantity > 1) in a single Tebex checkout, only the first one was stored — the rest were silently dropped by a UNIQUE constraint on transid since Tebex shares the same {transaction} across every command. The constraint is now removed and each command inserts its own row, so every package is claimable from the dashboard"}
+{"version":"3.0.7", "notes":"Monthly and Config"}
