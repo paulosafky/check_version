@@ -1,1 +1,1 @@
-{"version":"3.1.0", "notes":"Add exports for housing scripts"}
+{"version":"3.2.0", "notes":"Personal tab in job garages, paged impound with search, fleet vehicles by model with job gate, liveries per vehicle, trunk and glovebox in the card for every inventory, fuel/engine/body in columns, server exports IsVehicleOut/MarkVehicleOut/MarkVehicleStored/GetOutVehicles, prompt icons, MySQL 8. Copy your old config and locale over, nothing removed."}
