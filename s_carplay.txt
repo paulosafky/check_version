@@ -1,1 +1,1 @@
-{"version":"2.2.2", "notes":"Xsound Distance Fixed"}
+{"version":"1.0.0", "notes":"1.0.0: relaunch, version numbers restart here. Texts moved to config/locales with en and pt-pt and a Locale option; an old config with the Translations block still works. See the docs for updating from 2.x."}
