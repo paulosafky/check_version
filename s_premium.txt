@@ -1,1 +1,1 @@
-{"version":"3.0.7", "notes":"Monthly and Config"}
+{"version":"1.0.1", "notes":"1.0.1: relaunch, version numbers restart here. Claims and gift codes work on MySQL 8, texts fall back to English key by key, qb-inventory and codem detected, test drive keys through s_garages 1.0.0. Copy your config over but keep the new config/locales/en.lua and config/framework/. See the docs for updating from 3.x."}
