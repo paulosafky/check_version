@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"1.0.0: relaunch, version numbers restart here. Texts moved to config/locales with en and pt-pt and a Locale option; an old config with the Translations block still works. See the docs for updating from 2.x."}
+{"version":"1.1.0", "notes":"1.1.0: s_carplay is now s_carstereo (Car Stereo). Download s_carstereo from the portal, delete the s_carplay folder, copy your config/ over and change ensure s_carplay to ensure s_carstereo. Your config keeps working; saved playlists do not carry over."}
