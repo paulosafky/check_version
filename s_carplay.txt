@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"1.1.0: s_carplay is now s_carstereo (Car Stereo). Download s_carstereo from the portal, delete the s_carplay folder, copy your config/ over and change ensure s_carplay to ensure s_carstereo. Your config keeps working; saved playlists do not carry over."}
+{"version":"1.1.0", "notes":"1.1.0: s_carplay is now free and open source (MIT) at github.com/paulosafky/s_carplay and is no longer sold on Tebex. Download it there and copy your config/ over; the resource name is the same and playlists stay."}
