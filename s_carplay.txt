@@ -1,1 +1,0 @@
-{"version":"1.1.0", "notes":"1.1.0: s_carplay is now free and open source (MIT) at github.com/paulosafky/s_carplay and is no longer sold on Tebex. Download it there and copy your config/ over; the resource name is the same and playlists stay."}
