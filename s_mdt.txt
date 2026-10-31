@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Initial release"}
+{"version":"1.0.1", "notes":"1.0.1: profile notes save again for citizens without an MDT photo. The save sent the placeholder image as the photo and the server rejected it, so the notes looked saved until the profile was reopened. Replace the script, your config stays as it is."}
