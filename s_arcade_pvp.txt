@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"1.0.1: kills count again. The server was dropping every hit, so each death counted as a suicide and nobody scored. Replace the script, your config stays as it is."}
+{"version":"1.0.2", "notes":"1.0.2: players leave a match standing. The exit ran before qbx_medical, qb-ambulancejob or esx_ambulancejob had flagged the death, so the victim of the final kill, and anyone shot during the fade, came out in last stand at the arcade. Replace the script, your config stays as it is."}
